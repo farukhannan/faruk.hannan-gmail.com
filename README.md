@@ -1,5 +1,5 @@
-# faruk.hannan-gmail.com
-OPENRESP-V1
+# OPENRESP-V1
+
 Open Resp (Nisshash)
 
 
